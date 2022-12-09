@@ -1,0 +1,68 @@
+body {
+    width:  800px;
+    margin: auto;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+img {
+    width: 60px;
+    height: 100px;
+}
+
+table.items {
+    border: solid 1px black;
+    margin: auto;
+    border-radius: 25px;
+    padding : 6px;
+}
+
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    padding: 8px;
+    border-radius: 25px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;;
+}
+
+.items-ordered-list {
+    font-size: 20px;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+}
+
+/*
+footer.hide-me {
+    display: hidden;
+}
+*/
+
+td {
+    border: 1px solid green;
+}
+
+
+/*
+CSS EXERCISES
+
+11) Give a maximum width to the body and center it into the page - DONE
+12) Set every h1 to be centered - DONE
+13) Change the color of each link in the page - ADD LINKS RATHER THAN CLICK ON IMAGES
+14) Create a class with a border assigned to it - DONE
+15) Set the previously created table to have rounded corners - DONE
+16) Add a margin between every paragraph - ??
+17) Create a class which changes font size and text weight when applied - DONE
+18) Create a class to hide a piece of content - TEST / FIX
+19) Add a green border to each <td> 
+20) Add a dotted red border to each <tr> (note: <tr> does not accept a border property) - TEST / FIX
+*/
